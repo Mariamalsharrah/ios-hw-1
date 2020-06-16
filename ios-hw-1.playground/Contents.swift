@@ -5,17 +5,16 @@
  
  */
 
-let name = "Ahmad"
+let name1 = "ahmad"
 
-name = "Salem"
+let name2 = "Salem"
 
 
 var myWeight = 60
 var FriendWeight = 80.5
 var height = 1.5
 
-
-var weightSum = myWeight + FriendWeight
+"weightSum" = (myWeight) < (FriendWeight)
 
 
 
